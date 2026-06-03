@@ -3,8 +3,8 @@
 Este repositório foi desenvolvido como parte do Trabalho Final da disciplina de Fundamentos Teóricos da Computação da Faculdade Cotemig. O objetivo do projeto é modelar e implementar de forma estrita três máquinas abstratas fundamentais utilizando a linguagem C# sob o ecossistema .NET 6+.
 
 ## 👥 Integrantes da Equipe
-Conforme as exigências de identificação do projeto:
-**Rafael Soares Almeida Fonseca** — Matrícula: 72400749
+Conforme as exigências de identificação do projeto:<br>
+**Rafael Soares Almeida Fonseca** — Matrícula: 72400749<br>
 **Luiz Felipe de Souza Cassimiro** — Matrícula: 72301139 
 
 ## 📝 Breve Descrição de Cada Parte Implementada
