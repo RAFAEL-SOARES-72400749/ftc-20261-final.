@@ -19,17 +19,15 @@ O projeto cumpre todas as metas de desenvolvimento divididas nos seguintes diret
 ## 🚀 Instruções de Compilação e Execução
 Para executar os simuladores, é necessário possuir o SDK do .NET 6 ou superior instalado no ambiente. Navegue até a pasta da máquina abstrata desejada via terminal e utilize o comando padrão do ecossistema .NET:
 
-## 1. Executando o AFD
-```bash
+## Como Executar
+ **Executando o AFD**
 cd Parte1
 dotnet run
 
-## 2. Executando o AP
-```bash
+**Executando o AP**
 cd Parte2
 dotnet run
 
-## 3. Executando a MT
-```bash
+**Executando a MT**
 cd Parte3
 dotnet run
