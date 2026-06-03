@@ -21,13 +21,13 @@ Para executar os simuladores, é necessário possuir o SDK do .NET 6 ou superior
 
 ## Como Executar
  **Executando o AFD**
-cd Parte1
+/ cd Parte1 / 
 dotnet run
 
 **Executando o AP**
-cd Parte2
+/ cd Parte2 /
 dotnet run
 
 **Executando a MT**
-cd Parte3
+/ cd Parte3 /
 dotnet run
