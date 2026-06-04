@@ -8,7 +8,7 @@ namespace ImplementacaoAutomatos
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             while (true)
-            { 
+            { //menu para ficar repetindo ate o usuario sair (escolha 3)
                 Console.WriteLine("------- Implementação de AFD -------\n");
                 Console.WriteLine("Selecione o tipo do Autômato");
                 Console.WriteLine("1 - Autômato Finito Determinístico (AFD)");
