@@ -8,13 +8,11 @@ namespace ImplementacaoAutomatos
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             while (true)
-            { //menu para ficar repetindo ate o usuario sair (escolha 3)
-                Console.WriteLine("------- Implementação de AFD, AP e MT -------\n");
+            { 
+                Console.WriteLine("------- Implementação de AFD -------\n");
                 Console.WriteLine("Selecione o tipo do Autômato");
                 Console.WriteLine("1 - Autômato Finito Determinístico (AFD)");
-                Console.WriteLine("2 - Autômato de Pilha Determinístico (APD)");
-                Console.WriteLine("3 - Máquina de Turing (MT)");
-                Console.WriteLine("4 - Sair\n");
+                Console.WriteLine("2 - Sair\n");
                 Console.WriteLine("-- Rafael Soares Almeida Fonseca --");
                 Console.WriteLine("-- Luiz Felipe de Souza Cassimiro --");
                 if (!int.TryParse(Console.ReadLine(), out int escolha))
@@ -28,16 +26,6 @@ namespace ImplementacaoAutomatos
                         break;
 
                     case 2:
-                        Console.WriteLine();
-                        APD(); //executando o APD
-                        break;
-
-                    case 3:
-                        Console.WriteLine();
-                        MT(); //executando a MT
-                        break;
-
-                    case 4:
                         return;
 
                     default:
