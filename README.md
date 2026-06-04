@@ -17,17 +17,8 @@ O projeto cumpre todas as metas de desenvolvimento divididas nos seguintes diret
 **Parte 3 — Máquina de Turing (MT) (`/Parte3/`):** Simulador de Máquina de Turing configurado com fita dinâmica baseada em dicionário. Ele reconhece a linguagem sensível ao contexto $L_{4}=\{a^{n}b^{n}c^{n} \mid n\ge1\}$ e atua como uma máquina computadora de funções para computar $f(n)=n+1$ em representação unária.
 
 ## 🚀 Instruções de Compilação e Execução
-Para executar os simuladores, é necessário possuir o SDK do .NET 6 ou superior instalado no ambiente. Navegue até a pasta da máquina abstrata desejada via terminal e utilize o comando padrão do ecossistema .NET:
 
-## Como Executar
- **Executando o AFD**
-/ cd Parte1 / 
-dotnet run
-
-**Executando o AP**
-/ cd Parte2 /
-dotnet run
-
-**Executando a MT**
-/ cd Parte3 /
-dotnet run
+### Opção 1: Via Interface do Visual Studio (Recomendado)
+1. Dê dois cliques no arquivo de solução do projeto (`.sln`) para abri-lo no **Visual Studio**.
+2. Certifique-se de que o projeto `ImplementacaoAutomatos` está selecionado como projeto de inicialização.
+3. Pressione a tecla **F5** ou clique no botão **"Iniciar"** (Play verde) na barra de ferramentas superior.
