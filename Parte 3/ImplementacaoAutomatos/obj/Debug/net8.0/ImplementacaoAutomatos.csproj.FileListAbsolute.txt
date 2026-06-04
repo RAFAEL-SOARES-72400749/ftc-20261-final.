@@ -1,0 +1,28 @@
+C:\Users\rafae\Downloads\TESTE\ImplementacaoAutomatos\bin\Debug\net8.0\ImplementacaoAutomatos.exe
+C:\Users\rafae\Downloads\TESTE\ImplementacaoAutomatos\bin\Debug\net8.0\ImplementacaoAutomatos.deps.json
+C:\Users\rafae\Downloads\TESTE\ImplementacaoAutomatos\bin\Debug\net8.0\ImplementacaoAutomatos.runtimeconfig.json
+C:\Users\rafae\Downloads\TESTE\ImplementacaoAutomatos\bin\Debug\net8.0\ImplementacaoAutomatos.dll
+C:\Users\rafae\Downloads\TESTE\ImplementacaoAutomatos\bin\Debug\net8.0\ImplementacaoAutomatos.pdb
+C:\Users\rafae\Downloads\TESTE\ImplementacaoAutomatos\obj\Debug\net8.0\ImplementacaoAutomatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Downloads\TESTE\ImplementacaoAutomatos\obj\Debug\net8.0\ImplementacaoAutomatos.AssemblyInfoInputs.cache
+C:\Users\rafae\Downloads\TESTE\ImplementacaoAutomatos\obj\Debug\net8.0\ImplementacaoAutomatos.AssemblyInfo.cs
+C:\Users\rafae\Downloads\TESTE\ImplementacaoAutomatos\obj\Debug\net8.0\ImplementacaoAutomatos.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Downloads\TESTE\ImplementacaoAutomatos\obj\Debug\net8.0\ImplementacaoAutomatos.dll
+C:\Users\rafae\Downloads\TESTE\ImplementacaoAutomatos\obj\Debug\net8.0\refint\ImplementacaoAutomatos.dll
+C:\Users\rafae\Downloads\TESTE\ImplementacaoAutomatos\obj\Debug\net8.0\ImplementacaoAutomatos.pdb
+C:\Users\rafae\Downloads\TESTE\ImplementacaoAutomatos\obj\Debug\net8.0\ImplementacaoAutomatos.genruntimeconfig.cache
+C:\Users\rafae\Downloads\TESTE\ImplementacaoAutomatos\obj\Debug\net8.0\ref\ImplementacaoAutomatos.dll
+C:\Users\rafae\Downloads\Parte 3\ImplementacaoAutomatos\bin\Debug\net8.0\ImplementacaoAutomatos.exe
+C:\Users\rafae\Downloads\Parte 3\ImplementacaoAutomatos\bin\Debug\net8.0\ImplementacaoAutomatos.deps.json
+C:\Users\rafae\Downloads\Parte 3\ImplementacaoAutomatos\bin\Debug\net8.0\ImplementacaoAutomatos.runtimeconfig.json
+C:\Users\rafae\Downloads\Parte 3\ImplementacaoAutomatos\bin\Debug\net8.0\ImplementacaoAutomatos.dll
+C:\Users\rafae\Downloads\Parte 3\ImplementacaoAutomatos\bin\Debug\net8.0\ImplementacaoAutomatos.pdb
+C:\Users\rafae\Downloads\Parte 3\ImplementacaoAutomatos\obj\Debug\net8.0\ImplementacaoAutomatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Downloads\Parte 3\ImplementacaoAutomatos\obj\Debug\net8.0\ImplementacaoAutomatos.AssemblyInfoInputs.cache
+C:\Users\rafae\Downloads\Parte 3\ImplementacaoAutomatos\obj\Debug\net8.0\ImplementacaoAutomatos.AssemblyInfo.cs
+C:\Users\rafae\Downloads\Parte 3\ImplementacaoAutomatos\obj\Debug\net8.0\ImplementacaoAutomatos.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Downloads\Parte 3\ImplementacaoAutomatos\obj\Debug\net8.0\ImplementacaoAutomatos.dll
+C:\Users\rafae\Downloads\Parte 3\ImplementacaoAutomatos\obj\Debug\net8.0\refint\ImplementacaoAutomatos.dll
+C:\Users\rafae\Downloads\Parte 3\ImplementacaoAutomatos\obj\Debug\net8.0\ImplementacaoAutomatos.pdb
+C:\Users\rafae\Downloads\Parte 3\ImplementacaoAutomatos\obj\Debug\net8.0\ImplementacaoAutomatos.genruntimeconfig.cache
+C:\Users\rafae\Downloads\Parte 3\ImplementacaoAutomatos\obj\Debug\net8.0\ref\ImplementacaoAutomatos.dll
